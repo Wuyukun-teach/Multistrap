@@ -21,5 +21,6 @@ def main():
 
     print(f"日志文件已生成：{log_path}")
 
+
 if __name__ == "__main__":
-    main()    
+    main()       
